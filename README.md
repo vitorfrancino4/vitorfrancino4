@@ -40,6 +40,12 @@ Git          ███████░░░  0%
 
 ---
 
+### <img width="20" align="absmiddle" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/mortar-board-24.svg" /> Formação
+
+Sou autodidata: aprendo através de documentação oficial, prática em projetos reais e comunidades online. Ainda não tenho cursos ou certificações formais — estou sempre estudando algo novo e pretendo ir adicionando aqui conforme for concluindo.
+
+---
+
 ### <img width="20" align="absmiddle" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/cpu-24.svg" /> IA que eu uso no dia a dia
 
 <table align="center">
