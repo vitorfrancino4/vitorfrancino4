@@ -2,12 +2,12 @@
   <img src="./assets/guts-sitting.jpg" width="100%" />
 </p>
 
-<h1 align="center"><img width="26" align="absmiddle" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/person-24.svg" /> Olá, tudo bem?</h1>
+<h1 align="center"><img width="26" align="absmiddle" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/person-24.svg" /> Olá, eu sou o Vitor Francino</h1>
 
-### Desenvolvedor Web | JavaScript • TypeScript • React • Node.js
+### Estudante de Engenharia de Software | Dev Web & Cybersecurity
 
 Estou em busca de oportunidades como **desenvolvedor front-end / full-stack júnior**.
-Gosto de transformar ideias em interfaces funcionais e de entender como as coisas funcionam por baixo do capô.
+Gosto de transformar ideias em interfaces funcionais, entender como as coisas funcionam por baixo do capô, e estou expandindo meus estudos para a área de **cybersecurity**.
 
 - <img width="16" align="absmiddle" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/telescope-24.svg" /> Atualmente aprimorando projetos com **React** e **Node.js**
 - <img width="16" align="absmiddle" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/book-24.svg" /> Estudando **TypeScript** e boas práticas de arquitetura front-end
@@ -18,9 +18,26 @@ Gosto de transformar ideias em interfaces funcionais e de entender como as coisa
 <table align="center">
   <tr>
     <td align="center" width="160">
+      <img width="20" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/person-24.svg" /><br/>
+      <b>Vitor Francino</b><br/>
+      <sub>Nome</sub>
+    </td>
+    <td align="center" width="160">
       <img width="20" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/location-24.svg" /><br/>
       <b>Brasil</b><br/>
-      <sub>Localização</sub>
+      <sub>País</sub>
+    </td>
+    <td align="center" width="160">
+      <img width="20" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/mortar-board-24.svg" /><br/>
+      <b>Estudante</b><br/>
+      <sub>Nível</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <img width="20" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/globe-24.svg" /><br/>
+      <b>PT • EN</b><br/>
+      <sub>Nativo • Aprendendo</sub>
     </td>
     <td align="center" width="160">
       <img width="20" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/check-circle-24.svg" /><br/>
@@ -28,9 +45,9 @@ Gosto de transformar ideias em interfaces funcionais e de entender como as coisa
       <sub>Para oportunidades</sub>
     </td>
     <td align="center" width="160">
-      <img width="20" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/globe-24.svg" /><br/>
-      <b>PT • EN</b><br/>
-      <sub>Nativo • Aprendendo</sub>
+      <img width="20" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/shield-lock-24.svg" /><br/>
+      <b>Dev & Cybersecurity</b><br/>
+      <sub>Objetivo</sub>
     </td>
   </tr>
 </table>
@@ -46,6 +63,7 @@ Gosto de transformar ideias em interfaces funcionais e de entender como as coisa
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 **Nível atual:**
 
