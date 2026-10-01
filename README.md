@@ -115,12 +115,8 @@ Sou autodidata, com aprendizado baseado no estudo de documentações oficiais, n
 ### <img width="20" align="absmiddle" src="https://raw.githubusercontent.com/primer/octicons/main/icons/graph-24.svg" /> Estatísticas
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vitorfrancino4&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=2d2d2d" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfrancino4&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=2d2d2d" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitorfrancino4&background=000000&border=2d2d2d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=9e9e9e" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vitorfrancino4&show_icons=true&hide_rank=true&card_width=495&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20GitHub&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=2d2d2d" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorfrancino4&locale=pt_BR&background=000000&border=2d2d2d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=9e9e9e" />
 </p>
 
 ---
