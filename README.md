@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/guts-banner.jpg" width="100%" />
+  <img src="./assets/guts-sitting.jpg" width="100%" />
 </p>
 
 <h1 align="center">👋 Olá, tudo bem?</h1>
@@ -72,7 +72,7 @@ Git          ███████░░░  0%
 <table>
   <tr>
     <td width="260" valign="top">
-      <img src="./assets/guts-resting.jpg" width="240" />
+      <img src="./assets/guts-standing.jpg" width="240" />
     </td>
     <td valign="top">
 
