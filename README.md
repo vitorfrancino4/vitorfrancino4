@@ -65,16 +65,9 @@ Gosto de transformar ideias em interfaces funcionais, entender como as coisas fu
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
-**Nível atual:**
-
-```
-JavaScript   █████░░░░░  50%
-React        ░░░░░░░░░░  0%
-HTML / CSS   ████░░░░░░  40%
-Node.js      █████░░░░░  50%
-TypeScript   ░░░░░░░░░░  0%
-Git          █████████░  90%
-```
+<p align="center">
+  <img src="./assets/skills.svg" width="100%" />
+</p>
 
 ---
 
