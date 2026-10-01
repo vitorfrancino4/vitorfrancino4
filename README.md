@@ -66,3 +66,15 @@ Git          ███████░░░  70%
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vitorfrancino4&custom_title=Minha%20Atividade%20de%20Contribui%C3%A7%C3%B5es&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=2d2d2d&title_color=ffffff&text_color=9e9e9e&border_radius=10&hide_border=true" />
 </p>
+
+---
+
+### 🐍 Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorfrancino4/vitorfrancino4/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorfrancino4/vitorfrancino4/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation comendo o calendário de contribuições" src="https://raw.githubusercontent.com/vitorfrancino4/vitorfrancino4/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
