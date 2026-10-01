@@ -2,22 +2,22 @@
   <img src="./assets/guts-sitting.jpg" width="100%" />
 </p>
 
-<h1 align="center">👋 Olá, tudo bem?</h1>
+<h1 align="center"><img width="26" align="absmiddle" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/person-24.svg" /> Olá, tudo bem?</h1>
 
 ### Desenvolvedor Web | JavaScript • TypeScript • React • Node.js
 
 Estou em busca de oportunidades como **desenvolvedor front-end / full-stack júnior**.
 Gosto de transformar ideias em interfaces funcionais e de entender como as coisas funcionam por baixo do capô.
 
-- 🔭 Atualmente aprimorando projetos com **React** e **Node.js**
-- 🌱 Estudando **TypeScript** e boas práticas de arquitetura front-end
-- 👯 Aberto a colaborar em projetos open source
-- 📫 Fique à vontade para abrir uma *issue* ou mandar uma mensagem por aqui mesmo no GitHub
-- ⚡ Fun fact: aprendo melhor construindo do que lendo documentação
+- <img width="16" align="absmiddle" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/telescope-24.svg" /> Atualmente aprimorando projetos com **React** e **Node.js**
+- <img width="16" align="absmiddle" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/book-24.svg" /> Estudando **TypeScript** e boas práticas de arquitetura front-end
+- <img width="16" align="absmiddle" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/people-24.svg" /> Aberto a colaborar em projetos open source
+- <img width="16" align="absmiddle" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/mail-24.svg" /> Fique à vontade para abrir uma *issue* ou mandar uma mensagem por aqui mesmo no GitHub
+- <img width="16" align="absmiddle" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/zap-24.svg" /> Fun fact: aprendo melhor construindo do que lendo documentação
 
 ---
 
-### 🛠️ Stack
+### <img width="20" align="absmiddle" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/tools-24.svg" /> Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,7 +40,7 @@ Git          ███████░░░  0%
 
 ---
 
-### 🤖 IA que eu uso no dia a dia
+### <img width="20" align="absmiddle" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/cpu-24.svg" /> IA que eu uso no dia a dia
 
 <table align="center">
   <tr>
@@ -67,7 +67,7 @@ Git          ███████░░░  0%
 
 ---
 
-### 🚀 Minha evolução
+### <img width="20" align="absmiddle" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/rocket-24.svg" /> Minha evolução
 
 <table>
   <tr>
@@ -88,7 +88,7 @@ Git          ███████░░░  0%
 
 ---
 
-### 📊 Estatísticas
+### <img width="20" align="absmiddle" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/graph-24.svg" /> Estatísticas
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vitorfrancino4&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=2d2d2d" />
@@ -105,7 +105,7 @@ Git          ███████░░░  0%
 
 ---
 
-### 🐍 Snake
+### <img width="20" align="absmiddle" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/play-24.svg" /> Snake
 
 <p align="center">
   <picture>
