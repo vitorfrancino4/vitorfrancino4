@@ -68,19 +68,19 @@ Gosto de transformar ideias em interfaces funcionais, entender como as coisas fu
 **Nível atual:**
 
 ```
-JavaScript   ████████░░  0%
-React        ███████░░░  0%
-HTML / CSS   ████████░░  0%
-Node.js      ██████░░░░  0%
-TypeScript   █████░░░░░  0%
-Git          ███████░░░  0%
+JavaScript   █████░░░░░  50%
+React        ░░░░░░░░░░  0%
+HTML / CSS   ████░░░░░░  40%
+Node.js      █████░░░░░  50%
+TypeScript   ░░░░░░░░░░  0%
+Git          █████████░  90%
 ```
 
 ---
 
 ### <img width="20" align="absmiddle" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/mortar-board-24.svg" /> Formação
 
-Sou autodidata: aprendo através de documentação oficial, prática em projetos reais e comunidades online. Ainda não tenho cursos ou certificações formais — estou sempre estudando algo novo e pretendo ir adicionando aqui conforme for concluindo.
+Sou autodidata, com aprendizado baseado no estudo de documentações oficiais, na aplicação prática em projetos reais e na troca de conhecimentos com comunidades de tecnologia. Atualmente, concentro meus esforços no desenvolvimento contínuo das minhas habilidades técnicas e na construção de experiência prática na área de tecnologia. Ainda não possuo cursos ou certificações formais.
 
 ---
 
