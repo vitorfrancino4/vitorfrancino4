@@ -106,22 +106,9 @@ Sou autodidata, com aprendizado baseado no estudo de documentações oficiais, n
 
 ### <img width="20" align="absmiddle" src="https://raw.githubusercontent.com/primer/octicons/main/icons/rocket-24.svg" /> Minha evolução
 
-<table>
-  <tr>
-    <td width="260" valign="top">
-      <img src="./assets/guts-standing.jpg" width="240" />
-    </td>
-    <td valign="top">
-
-- Comecei a programar com HTML, CSS e JavaScript
-- Primeiros projetos práticos e lógica de programação
-- Aprofundando em **React** e construindo interfaces reais
-- **Hoje:** estudando Node.js e TypeScript, buscando minha primeira oportunidade
-- Próximo passo: contribuir em projetos open source e trabalhar em equipe
-
-</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/evolution.svg" width="100%" alt="Minha evolução: comecei com HTML, CSS e JavaScript; primeiros projetos práticos; aprofundando em React; hoje estudando Node.js e TypeScript; próximo passo: open source e trabalho em equipe" />
+</p>
 
 ---
 
