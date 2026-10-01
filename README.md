@@ -15,13 +15,13 @@ Gosto de transformar ideias em interfaces funcionais e de entender como as coisa
 
 ### 🛠️ Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
 **Nível atual:**
 
@@ -55,14 +55,14 @@ Git          ███████░░░  70%
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vitorfrancino4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfrancino4&layout=compact&theme=tokyonight" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vitorfrancino4&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=2d2d2d" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfrancino4&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=2d2d2d" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitorfrancino4&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitorfrancino4&background=000000&border=2d2d2d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=9e9e9e" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vitorfrancino4&theme=tokyo-night&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vitorfrancino4&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=2d2d2d&title_color=ffffff&hide_border=true" />
 </p>
