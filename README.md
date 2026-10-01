@@ -4,10 +4,10 @@
 
 <h1 align="center"><img width="26" align="absmiddle" src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-24.svg" /> Olá, eu sou o Vitor Francino</h1>
 
-### Estudante de Engenharia de Software | Dev Web & Cybersecurity
+### Estudante de Engenharia de Software | Dev Web e Segurança Cibernética
 
 Estou em busca de oportunidades como **desenvolvedor front-end / full-stack júnior**.
-Gosto de transformar ideias em interfaces funcionais, entender como as coisas funcionam por baixo do capô, e estou expandindo meus estudos para a área de **cybersecurity**.
+Gosto de transformar ideias em interfaces funcionais, entender como as coisas funcionam por baixo do capô, e estou expandindo meus estudos para a área de **segurança cibernética**.
 
 - <img width="16" align="absmiddle" src="https://raw.githubusercontent.com/primer/octicons/main/icons/telescope-24.svg" /> Atualmente aprimorando projetos com **React** e **Node.js**
 - <img width="16" align="absmiddle" src="https://raw.githubusercontent.com/primer/octicons/main/icons/book-24.svg" /> Estudando **TypeScript** e boas práticas de arquitetura front-end
@@ -46,7 +46,7 @@ Gosto de transformar ideias em interfaces funcionais, entender como as coisas fu
     </td>
     <td align="center" width="160">
       <img width="20" src="https://raw.githubusercontent.com/primer/octicons/main/icons/shield-lock-24.svg" /><br/>
-      <b>Dev & Cybersecurity</b><br/>
+      <b>Dev e Segurança</b><br/>
       <sub>Objetivo</sub>
     </td>
   </tr>
@@ -141,10 +141,6 @@ Sou autodidata, com aprendizado baseado no estudo de documentações oficiais, n
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitorfrancino4&background=000000&border=2d2d2d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=9e9e9e" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vitorfrancino4&custom_title=Minha%20Atividade%20de%20Contribui%C3%A7%C3%B5es&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=2d2d2d&title_color=ffffff&text_color=9e9e9e&border_radius=10&hide_border=true" />
 </p>
 
 ---
