@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="./assets/banner-skull.jpg" width="260" />
+  <img src="./assets/guts-banner.jpg" width="100%" />
 </p>
 
 <h1 align="center">👋 Olá, tudo bem?</h1>
-
-<p align="center">
-  <img src="./assets/emblem-won.jpg" width="72" />
-</p>
 
 ### Desenvolvedor Web | JavaScript • TypeScript • React • Node.js
 
@@ -73,21 +69,22 @@ Git          ███████░░░  0%
 
 ### 🚀 Minha evolução
 
-<p align="center">
-  <img src="./assets/berserk-mood.jpg" width="200" />
-</p>
+<table>
+  <tr>
+    <td width="260" valign="top">
+      <img src="./assets/guts-resting.jpg" width="240" />
+    </td>
+    <td valign="top">
 
-```
-●──── Comecei a programar com HTML, CSS e JavaScript
-│
-●──── Primeiros projetos práticos e lógica de programação
-│
-●──── Aprofundando em React e construindo interfaces reais
-│
-●──── Hoje: estudando Node.js e TypeScript, buscando minha primeira oportunidade
-│
-○──── Próximo passo: contribuir em projetos open source e trabalhar em equipe
-```
+- Comecei a programar com HTML, CSS e JavaScript
+- Primeiros projetos práticos e lógica de programação
+- Aprofundando em **React** e construindo interfaces reais
+- **Hoje:** estudando Node.js e TypeScript, buscando minha primeira oportunidade
+- Próximo passo: contribuir em projetos open source e trabalhar em equipe
+
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -121,5 +118,5 @@ Git          ███████░░░  0%
 ---
 
 <p align="center">
-  <img src="./assets/gethsemane.jpg" width="160" />
+  <img src="./assets/jesus-storm.jpg" width="100%" />
 </p>
