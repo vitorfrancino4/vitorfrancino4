@@ -66,7 +66,7 @@ Gosto de transformar ideias em interfaces funcionais, entender como as coisas fu
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 <p align="center">
-  <img src="./assets/skills.svg" width="100%" />
+  <img src="./assets/skills.svg?v=2" width="100%" />
 </p>
 
 ---
