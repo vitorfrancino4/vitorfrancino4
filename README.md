@@ -149,7 +149,7 @@ Sou autodidata, com aprendizado baseado no estudo de documentações oficiais, n
 
 ---
 
-### <img width="20" align="absmiddle" src="https://raw.githubusercontent.com/primer/octicons/main/icons/play-24.svg" /> Snake
+### <img width="20" align="absmiddle" src="https://raw.githubusercontent.com/primer/octicons/main/icons/pulse-24.svg" /> Snake
 
 <p align="center">
   <picture>
