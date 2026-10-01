@@ -23,6 +23,33 @@ Gosto de transformar ideias em interfaces funcionais e de entender como as coisa
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+**Nível atual:**
+
+```
+JavaScript   ████████░░  80%
+React        ███████░░░  70%
+HTML / CSS   ████████░░  80%
+Node.js      ██████░░░░  60%
+TypeScript   █████░░░░░  50%
+Git          ███████░░░  70%
+```
+
+---
+
+### 🚀 Minha evolução
+
+```
+●──── Comecei a programar com HTML, CSS e JavaScript
+│
+●──── Primeiros projetos práticos e lógica de programação
+│
+●──── Aprofundando em React e construindo interfaces reais
+│
+●──── Hoje: estudando Node.js e TypeScript, buscando minha primeira oportunidade
+│
+○──── Próximo passo: contribuir em projetos open source e trabalhar em equipe
+```
+
 ---
 
 ### 📊 Estatísticas
@@ -34,4 +61,8 @@ Gosto de transformar ideias em interfaces funcionais e de entender como as coisa
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitorfrancino4&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vitorfrancino4&theme=tokyo-night&hide_border=true" />
 </p>
