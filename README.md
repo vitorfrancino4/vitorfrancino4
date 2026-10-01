@@ -1,4 +1,12 @@
-# 👋 Olá, tudo bem?
+<p align="center">
+  <img src="./assets/banner-skull.jpg" width="260" />
+</p>
+
+<h1 align="center">👋 Olá, tudo bem?</h1>
+
+<p align="center">
+  <img src="./assets/emblem-won.jpg" width="72" />
+</p>
 
 ### Desenvolvedor Web | JavaScript • TypeScript • React • Node.js
 
@@ -26,12 +34,12 @@ Gosto de transformar ideias em interfaces funcionais e de entender como as coisa
 **Nível atual:**
 
 ```
-JavaScript   ████████░░  80%
-React        ███████░░░  70%
-HTML / CSS   ████████░░  80%
-Node.js      ██████░░░░  60%
-TypeScript   █████░░░░░  50%
-Git          ███████░░░  70%
+JavaScript   ████████░░  0%
+React        ███████░░░  0%
+HTML / CSS   ████████░░  0%
+Node.js      ██████░░░░  0%
+TypeScript   █████░░░░░  0%
+Git          ███████░░░  0%
 ```
 
 ---
@@ -64,6 +72,10 @@ Git          ███████░░░  70%
 ---
 
 ### 🚀 Minha evolução
+
+<p align="center">
+  <img src="./assets/berserk-mood.jpg" width="200" />
+</p>
 
 ```
 ●──── Comecei a programar com HTML, CSS e JavaScript
@@ -104,4 +116,10 @@ Git          ███████░░░  70%
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorfrancino4/vitorfrancino4/output/github-contribution-grid-snake.svg" />
     <img alt="snake animation comendo o calendário de contribuições" src="https://raw.githubusercontent.com/vitorfrancino4/vitorfrancino4/output/github-contribution-grid-snake.svg" />
   </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/gethsemane.jpg" width="160" />
 </p>
