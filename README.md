@@ -15,6 +15,26 @@ Gosto de transformar ideias em interfaces funcionais e de entender como as coisa
 - <img width="16" align="absmiddle" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/mail-24.svg" /> Fique à vontade para abrir uma *issue* ou mandar uma mensagem por aqui mesmo no GitHub
 - <img width="16" align="absmiddle" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/zap-24.svg" /> Fun fact: aprendo melhor construindo do que lendo documentação
 
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <img width="20" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/location-24.svg" /><br/>
+      <b>Brasil</b><br/>
+      <sub>Localização</sub>
+    </td>
+    <td align="center" width="160">
+      <img width="20" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/check-circle-24.svg" /><br/>
+      <b>Disponível</b><br/>
+      <sub>Para oportunidades</sub>
+    </td>
+    <td align="center" width="160">
+      <img width="20" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/globe-24.svg" /><br/>
+      <b>PT • EN</b><br/>
+      <sub>Nativo • Aprendendo</sub>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### <img width="20" align="absmiddle" src="https://unpkg.com/@primer/octicons@19.8.0/build/svg/tools-24.svg" /> Stack
