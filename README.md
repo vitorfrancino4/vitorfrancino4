@@ -36,6 +36,15 @@ Git          ███████░░░  70%
 
 ---
 
+### 🤖 IA que eu uso no dia a dia
+
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=deepseek&logoColor=white)
+
+---
+
 ### 🚀 Minha evolução
 
 ```
