@@ -121,8 +121,6 @@ Sou autodidata, com aprendizado baseado no estudo de documentações oficiais, n
 
 ---
 
-### <img width="20" align="absmiddle" src="./assets/icons/pulse.svg" /> Snake
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorfrancino4/vitorfrancino4/output/github-contribution-grid-snake-dark.svg" />
